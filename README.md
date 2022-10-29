@@ -1,5 +1,5 @@
 # testrepo
 
-rr Edotomg the file
+Edting the file
 
 Its a markdown file in this repository.
